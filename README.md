@@ -6,6 +6,7 @@
 - [TODO](https://github.com/alicangunduz/Learning-JS-TODO)
 - [Slider](https://github.com/alicangunduz/Learning-JS-Slider)
 - [Booking](https://github.com/alicangunduz/Learning-JS-Booking)
+- [Hangman](https://github.com/alicangunduz/Learning-JS-Hangman)
   
 ## 🛰️ Feedback
 
